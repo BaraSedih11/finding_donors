@@ -35,6 +35,7 @@ To run the code in the Jupyter Notebook, you need to have Python installed on yo
 * scikit-learn
 * matplotlib
 * seaborn
+  
 You can install these libraries using pip:
 
 ```bash
